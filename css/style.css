@@ -83,7 +83,7 @@ body{
 
 }
 
-#accordion .a{
+#accordion .a,#accordion2 .a{
   color: #fff;
   text-decoration: none;  
 }
